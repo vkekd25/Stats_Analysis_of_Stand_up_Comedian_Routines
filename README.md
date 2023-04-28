@@ -5,11 +5,11 @@
 
 - **프로젝트 개요**
 
-작성중...
+작성중
 
 - **프로젝트 결과**  
 
-작성중...
+작성중
 
 - **References**
   - Scraps From the Loft, “Stand-Up Comedy Transcripts.” https:// scrapsfromtheloft.com/stand-up-comedy-scripts/.
