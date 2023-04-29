@@ -12,7 +12,7 @@
 
 - **프로젝트 결과**  
 
-*Generation별*
+- Generation별
 
 [시각화 결과]
 
