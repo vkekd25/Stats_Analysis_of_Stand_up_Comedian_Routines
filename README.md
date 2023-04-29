@@ -26,11 +26,11 @@
 
 [시각화 결과]
 
-<img width="571" alt="스크린샷 2023-04-29 오후 3 57 16" src="https://user-images.githubusercontent.com/101457515/235288595-996deb51-ddd7-4183-b690-10690ac90052.png">
+<img width="551" alt="스크린샷 2023-04-29 오후 3 57 16" src="https://user-images.githubusercontent.com/101457515/235288595-996deb51-ddd7-4183-b690-10690ac90052.png">
 
 [통계분석 결과]
 
-<img width="571" alt="스크린샷 2023-04-29 오후 3 57 22" src="https://user-images.githubusercontent.com/101457515/235288596-e51c0c98-0da6-4a16-af40-3e59d7e7a085.png">
+<img width="551" alt="스크린샷 2023-04-29 오후 3 57 22" src="https://user-images.githubusercontent.com/101457515/235288596-e51c0c98-0da6-4a16-af40-3e59d7e7a085.png">
 
 결과들중 Generation별, Race별, 그리고 Gender별 시각화 및 통계분석 결과입니다. 추가적인 결과들과 자세한 내용들은 깃헙 파일을 다운받으시면 볼수 있습니다.
 
