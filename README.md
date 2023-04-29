@@ -12,7 +12,7 @@
 
 - **프로젝트 결과**  
 
-- Generation별
+**Generation별**
 
 [시각화 결과]
 
@@ -22,7 +22,7 @@
 
 <img width="846" alt="스크린샷 2023-04-29 오후 3 56 27" src="https://user-images.githubusercontent.com/101457515/235288540-cd83daa5-e85c-4ef8-a59e-10cb651a184d.png">
 
-*인종별, 성별*
+**race별, gender별**
 
 [시각화 결과]
 
