@@ -13,17 +13,23 @@
 - **프로젝트 결과**  
 
 *Generation별*
+
 [시각화 결과]
+
 <img width="821" alt="스크린샷 2023-04-29 오후 3 56 19" src="https://user-images.githubusercontent.com/101457515/235288537-2bd23b4a-9ed5-4606-826a-d36ddaabe4dd.png">
 
 [통계분석 결과]
+
 <img width="846" alt="스크린샷 2023-04-29 오후 3 56 27" src="https://user-images.githubusercontent.com/101457515/235288540-cd83daa5-e85c-4ef8-a59e-10cb651a184d.png">
 
 *인종별, 성별*
+
 [시각화 결과]
+
 <img width="704" alt="스크린샷 2023-04-29 오후 3 57 16" src="https://user-images.githubusercontent.com/101457515/235288595-996deb51-ddd7-4183-b690-10690ac90052.png">
 
 [통계분석 결과]
+
 <img width="723" alt="스크린샷 2023-04-29 오후 3 57 22" src="https://user-images.githubusercontent.com/101457515/235288596-e51c0c98-0da6-4a16-af40-3e59d7e7a085.png">
 
 결과들중 Generation별, 인종별, 그리고 성별 시각화 및 통계분석 결과입니다. 추가적인 결과들과 자세한 내용들은 깃헙 파일을 다운받으시면 볼수 있습니다.
