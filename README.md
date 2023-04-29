@@ -26,7 +26,7 @@
 
 [시각화 결과]
 
-<img width="621" alt="스크린샷 2023-04-29 오후 3 57 16" src="https://user-images.githubusercontent.com/101457515/235288595-996deb51-ddd7-4183-b690-10690ac90052.png">
+<img width="521" alt="스크린샷 2023-04-29 오후 3 57 16" src="https://user-images.githubusercontent.com/101457515/235288595-996deb51-ddd7-4183-b690-10690ac90052.png">
 
 [통계분석 결과]
 
